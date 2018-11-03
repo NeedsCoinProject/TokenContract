@@ -1,0 +1,2 @@
+# TokenContractDetails
+Token Name: NeedsCoin
